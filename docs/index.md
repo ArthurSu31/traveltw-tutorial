@@ -16,9 +16,4 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
 
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/my-tutorial-site.git
-git push -u origin main
+hello
